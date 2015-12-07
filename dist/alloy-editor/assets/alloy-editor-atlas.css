@@ -10,7 +10,6 @@
 }
 
 [class*="ae-icon-"], [class*=" ae-icon-"] {
-	display: block;
 	font-family: 'alloyeditor-atlas';
 	speak: none;
 	font-size: 20px;
